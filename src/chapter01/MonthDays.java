@@ -1,7 +1,5 @@
 package chapter01;
 
-import java.util.Date;
-
 public class MonthDays {
 
 	public static void main(String[] args) {
